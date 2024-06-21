@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rmentake.github.io/sitemap
+Sitemap: https://rmentake.github.io/app/sitemap
+Sitemap: https://rmentake.github.io/assets/sitemap
+Sitemap: https://rmentake.github.io/css/sitemap
+Sitemap: https://rmentake.github.io/includes/sitemap
+Sitemap: https://rmentake.github.io/item/sitemap
+Sitemap: https://rmentake.github.io/src/sitemap
